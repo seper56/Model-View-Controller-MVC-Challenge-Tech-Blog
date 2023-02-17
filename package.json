@@ -7,5 +7,22 @@
     "express-session": "^1.17.3",
     "mysql2": "^3.1.2",
     "sequelize": "^6.28.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "model-view-controller-mvc-challenge-tech-blog",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seper56/Model-View-Controller-MVC-Challenge-Tech-Blog.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/seper56/Model-View-Controller-MVC-Challenge-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/seper56/Model-View-Controller-MVC-Challenge-Tech-Blog#readme"
 }

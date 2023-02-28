@@ -63,7 +63,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ---
 ## Visuals:
  
- ![pic 1](https://user-images.githubusercontent.com/111944451/221735908-42424875-018b-4523-a55e-5483e549779d.png
+![pic 1](https://user-images.githubusercontent.com/111944451/221736138-0a417432-4cbd-4550-a7aa-84096b26711c.png)
 
  ![pic 2](https://user-images.githubusercontent.com/111944451/221735973-d7a35b60-abf5-4c0b-bc5b-8e7225a9154d.png)
 ---

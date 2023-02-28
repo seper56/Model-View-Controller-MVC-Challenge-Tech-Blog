@@ -63,8 +63,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ---
 ## Visuals:
   pic 1.png
-
-  pic 2.png
 ---
 ## Installation:
   
